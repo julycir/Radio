@@ -1,0 +1,28 @@
+* {
+	padding: 30px;
+	font-family: "Verdana", serif; 
+	background-color: #000000;
+}
+
+h1 {
+	color: gray;
+}
+	
+h1 audio div {
+	text-align: center;
+}
+
+div {
+	padding: 10px;
+	margin: 10px;
+	align-items: center;
+}
+
+button {
+	color: black;
+	border-color: #FF33DA;
+	background-color: #FF33DA;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
+}
